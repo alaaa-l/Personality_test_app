@@ -48,7 +48,7 @@ class ResultScreen extends StatelessWidget {
               foregroundColor: const Color.fromARGB(255, 109, 46, 186),
             ),
             child: Text(
-              "Retart Test",
+              "Restart Test",
               style: TextStyle(fontWeight: FontWeight.w600, fontSize: 16),
             ),
           ),
